@@ -15,14 +15,16 @@ This project will be successful when: 1)We accurately predict the winning team b
 
    b)The type of tournament 
 
-2)The model achieves atleast 80% accuracy
+ 2)The model achieves atleast 80% accuracy
 
-3)Have the lowest RMSE score possible
+ 3)Have the lowest RMSE score possible
 
 c) Understanding the context
+
 The Coca-Cola ranking system was designed by FIFA and named 'SUM'. This ranking method utilises a metric that adds or subtracts points to the previous score instead of finding the average score. The lowest score which may be negative indicates the worst team while the highest score indicated the best team.
 
 d)Experimental Design
+
 The project was undertaken using the following design Datasets(Fifa-ranking.csv + results.csv)
 
 Merging datasets
@@ -46,6 +48,7 @@ Challenging the solution
 Conclusion
 
 e) Data Relevance
+
 The relavance of our data will be answered by the following questions.
 
 How accurate is the data at predicting the outcome of the games?
